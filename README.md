@@ -33,3 +33,23 @@ Python, DuckDB, Streamlit; optionally a small React catalog viewer.
 Do not scrape or reuse restricted marketplace data.
 
 [Implementation planning notes](notes/IMPLEMENTATION-NOTES.md)
+
+<!-- portfolio-future-plans:start -->
+## Future plans and PRD direction
+
+*Planning review: 24 September 2026. These are proposed next steps, not completed work or measured outcomes.*
+
+**Priority recommendation:** Deprioritize; consider retirement only if inactive.
+
+Preserve useful material in the private idea backlog instead of committing to another active product roadmap.
+
+### Next scope
+
+- [ ] Save catalog taxonomy and search/filter coverage requirements before any retirement decision.
+- [ ] Check current use, unique branches/assets and incoming links before proposing archive or deletion.
+- [ ] No deletion is authorized by this note and the repository's current status is unchanged.
+
+### Validation and decision criteria
+
+Reopen a PRD only for a marketplace/discovery priority supported by user evidence. Inactivity has not been established; retaining the repository remains an option.
+<!-- portfolio-future-plans:end -->
